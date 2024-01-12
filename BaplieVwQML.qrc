@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Interface/StatusText.qml</file>
+        <file>Interface/FooterStatusBar.qml</file>
+        <file>Interface/HeaderMenuBar.qml</file>
+    </qresource>
+</RCC>
